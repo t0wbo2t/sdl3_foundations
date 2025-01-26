@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+sdl_renderer
+sdl_set_pixel
+sdl_texture
+sdl_water_effect
+sdl_window
